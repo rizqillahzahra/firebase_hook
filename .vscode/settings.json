@@ -1,0 +1,18 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "diffEditor.codeLens": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "gitlens.gitCommands.closeOnFocusOut": true,
+  "cSpell.ignoreWords": [
+    "berita",
+    "biodata",
+    "lestari",
+    "rizqillah",
+    "tanggal",
+    "telkom",
+    "zahra"
+  ]
+}
